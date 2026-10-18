@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "Row ID": "wh_01",
+      "First Name": "Alice",
+      "Last Name": "Vanderbilt",
+      "Email": "alice.vanderbilt@summitcloud.example.com",
+      "Job Title": "VP Sales",
+      "Company Name": "Summit Cloud",
+      "Company Domain": "summitcloud.example.com",
+      "LinkedIn URL": "https://linkedin.com/in/alicevanderbilt-summit",
+      "Country": "United States",
+      "Employee Count": "120",
+      "Industry": "SaaS",
+      "Phone": "+1-555-0201"
+    },
+    {
+      "Row ID": "wh_02",
+      "First Name": "George",
+      "Last Name": "Bailey",
+      "Email": "george.bailey@bedfordtech.example.com",
+      "Job Title": "Founder",
+      "Company Name": "Bedford Tech",
+      "Company Domain": "bedfordtech.example.com",
+      "LinkedIn URL": "https://linkedin.com/in/georgebailey-bedford",
+      "Country": "United Kingdom",
+      "Employee Count": "65",
+      "Industry": "Software",
+      "Phone": "+44-20-7946-0202"
+    },
+    {
+      "Row ID": "wh_03",
+      "First Name": "Maya",
+      "Last Name": "Svensson",
+      "Email": "maya.svensson@nordicpeak.example.com",
+      "Job Title": "Head of Growth",
+      "Company Name": "Nordic Peak",
+      "Company Domain": "nordicpeak.example.com",
+      "LinkedIn URL": "https://linkedin.com/in/mayasvensson-peak",
+      "Country": "Germany",
+      "Employee Count": "85",
+      "Industry": "IT Services",
+      "Phone": "+49-89-555-0203"
+    }
+  ]
+}

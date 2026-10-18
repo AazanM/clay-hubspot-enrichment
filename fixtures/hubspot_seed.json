@@ -1,0 +1,163 @@
+{
+  "contacts": [
+    {
+      "id": "c-1001",
+      "properties": {
+        "email": "sarah.chen@zenithdata.example.com",
+        "firstname": "Sarah",
+        "lastname": "Chen",
+        "jobtitle": "VP Sales",
+        "company": "Zenith Data"
+      }
+    },
+    {
+      "id": "c-1002",
+      "properties": {
+        "email": "marcus.vance@nexusflow.example.com",
+        "firstname": "Marcus",
+        "lastname": "Vance",
+        "jobtitle": "Founder",
+        "company": "Nexus Flow"
+      }
+    },
+    {
+      "id": "c-1003",
+      "properties": {
+        "email": "olivia.taylor@strataops.example.com",
+        "firstname": "Olivia",
+        "lastname": "Taylor",
+        "jobtitle": "Director of RevOps",
+        "company": "Strata Ops"
+      }
+    },
+    {
+      "id": "c-9001",
+      "properties": {
+        "email": "rachel.green@centralperk.example.com",
+        "firstname": "Rachel",
+        "lastname": "Green",
+        "jobtitle": "Marketing Coordinator",
+        "company": "Central Perk"
+      }
+    },
+    {
+      "id": "c-9002",
+      "properties": {
+        "email": "ross.geller@museumfossil.example.com",
+        "firstname": "Ross",
+        "lastname": "Geller",
+        "jobtitle": "Research Director",
+        "company": "Museum of Natural History"
+      }
+    },
+    {
+      "id": "c-9003",
+      "properties": {
+        "email": "chandler.bing@dataconf.example.com",
+        "firstname": "Chandler",
+        "lastname": "Bing",
+        "jobtitle": "Procurement Manager",
+        "company": "Data Reconfiguration Inc"
+      }
+    },
+    {
+      "id": "c-9004",
+      "properties": {
+        "email": "monica.geller@bistroalessandro.example.com",
+        "firstname": "Monica",
+        "lastname": "Geller",
+        "jobtitle": "Operations Director",
+        "company": "Alessandro Bistro"
+      }
+    },
+    {
+      "id": "c-9005",
+      "properties": {
+        "email": "joey.tribbiani@dayssoap.example.com",
+        "firstname": "Joey",
+        "lastname": "Tribbiani",
+        "jobtitle": "Communications Lead",
+        "company": "Days Media"
+      }
+    }
+  ],
+  "companies": [
+    {
+      "id": "co-2001",
+      "properties": {
+        "domain": "zenithdata.example.com",
+        "name": "Zenith Data"
+      }
+    },
+    {
+      "id": "co-2002",
+      "properties": {
+        "domain": "nexusflow.example.com",
+        "name": "Nexus Flow"
+      }
+    },
+    {
+      "id": "co-2003",
+      "properties": {
+        "domain": "strataops.example.com",
+        "name": "Strata Ops"
+      }
+    },
+    {
+      "id": "co-2004",
+      "properties": {
+        "domain": "solarislogic.example.com",
+        "name": "Solaris Logic"
+      }
+    },
+    {
+      "id": "co-2005",
+      "properties": {
+        "domain": "auroraai.example.com",
+        "name": "Aurora AI"
+      }
+    },
+    {
+      "id": "co-2006",
+      "properties": {
+        "domain": "vanguard-analytics.example.com",
+        "name": "Vanguard Analytics"
+      }
+    },
+    {
+      "id": "co-9001",
+      "properties": {
+        "domain": "centralperk.example.com",
+        "name": "Central Perk"
+      }
+    },
+    {
+      "id": "co-9002",
+      "properties": {
+        "domain": "museumfossil.example.com",
+        "name": "Museum of Natural History"
+      }
+    },
+    {
+      "id": "co-9003",
+      "properties": {
+        "domain": "dataconf.example.com",
+        "name": "Data Reconfiguration Inc"
+      }
+    },
+    {
+      "id": "co-9004",
+      "properties": {
+        "domain": "bistroalessandro.example.com",
+        "name": "Alessandro Bistro"
+      }
+    },
+    {
+      "id": "co-9005",
+      "properties": {
+        "domain": "dayssoap.example.com",
+        "name": "Days Media"
+      }
+    }
+  ]
+}

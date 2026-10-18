@@ -1,0 +1,256 @@
+{
+  "mock_apollo": {
+    "sarah.chen@zenithdata.example.com": {
+      "fields": {
+        "linkedin_url": "https://linkedin.com/in/sarahchen-zenith",
+        "phone": "+1-555-0101"
+      },
+      "credits": 1
+    },
+    "marcus.vance@nexusflow.example.com": {
+      "fields": {
+        "industry": "SaaS",
+        "phone": "+44-20-7946-0102"
+      },
+      "credits": 1
+    },
+    "olivia.taylor@strataops.example.com": {
+      "fields": {
+        "employees": 80,
+        "industry": "IT Services"
+      },
+      "credits": 1
+    },
+    "ethan.cole@prismtech.example.com": {
+      "fields": {
+        "employees": 125,
+        "industry": "Software",
+        "phone": "+49-30-555-0104"
+      },
+      "credits": 1
+    },
+    "david brooks@quantex.example.com": {
+      "fields": {
+        "email": "david.brooks@quantex.example.com",
+        "industry": "Software",
+        "phone": "+1-555-0105"
+      },
+      "credits": 1
+    },
+    "hannah.abbott@beaconscale.example.com": {
+      "fields": {
+        "linkedin_url": "https://linkedin.com/in/hannahabbott-beacon"
+      },
+      "credits": 1
+    },
+    "alex.morgan@gmail.com": {
+      "fields": {
+        "phone": "+1-555-0107"
+      },
+      "credits": 1
+    },
+    "info@novasolutions.example.com": {
+      "fields": {
+        "phone": "+44-20-7946-0108"
+      },
+      "credits": 1
+    },
+    "elena.rostova@cloudscale.example.com": {
+      "fields": {
+        "employees": 180,
+        "phone": "+31-20-555-0110"
+      },
+      "credits": 1
+    },
+    "nora.fischer@vertexlabs.example.com": {
+      "fields": {
+        "industry": "Software",
+        "phone": "+49-30-555-0113"
+      },
+      "credits": 1
+    },
+    "liam.wright@solarislogic.example.com": {
+      "fields": {
+        "employees": 310,
+        "phone": "+1-555-0114"
+      },
+      "credits": 1
+    },
+    "sophia.martinez@auroraai.example.com": {
+      "fields": {
+        "employees": 140,
+        "phone": "+1-604-555-0115"
+      },
+      "credits": 1
+    },
+    "daniel.kim@vanguardanalytics.example.com": {
+      "fields": {
+        "employees": 65,
+        "phone": "+1-555-0116"
+      },
+      "credits": 1
+    },
+    "emma.walsh@hyperionlogic.example.com": {
+      "fields": {
+        "linkedin_url": "https://linkedin.com/in/emmawalsh-hyperion",
+        "phone": "+44-20-7946-0117"
+      },
+      "credits": 1
+    },
+    "mateo.silva@cortexsys.example.com": {
+      "fields": {
+        "phone": "+1-555-0118"
+      },
+      "credits": 1
+    },
+    "chloe.bennett@synthetix.example.com": {
+      "fields": {
+        "employees": 210,
+        "phone": "+61-2-5550-0119"
+      },
+      "credits": 1
+    },
+    "noah patel@omniflow.example.com": {
+      "fields": {
+        "email": "noah.patel@omniflow.example.com",
+        "phone": "+1-416-555-0120"
+      },
+      "credits": 1
+    },
+    "aria.montgomery@aetheris.example.com": {
+      "fields": {
+        "phone": "+1-555-0121"
+      },
+      "credits": 1
+    },
+    "felix.bauer@kryptonware.example.com": {
+      "fields": {
+        "phone": "+49-89-555-0122"
+      },
+      "credits": 1
+    },
+    "grace.hopper@cobolabs.example.com": {
+      "fields": {
+        "employees": 95,
+        "phone": "+1-555-0123"
+      },
+      "credits": 1
+    },
+    "lars.jansen@nordicflow.example.com": {
+      "fields": {
+        "industry": "Software",
+        "phone": "+31-10-555-0124"
+      },
+      "credits": 1
+    },
+    "zoe.kravitz@luminaops.example.com": {
+      "fields": {
+        "phone": "+1-555-0125"
+      },
+      "credits": 1
+    },
+    "arthur.pendelton@camelotai.example.com": {
+      "fields": {
+        "phone": "+44-161-555-0126"
+      },
+      "credits": 1
+    },
+    "sean.oconnor@shamrockcloud.example.com": {
+      "fields": {
+        "phone": "+1-555-0128"
+      },
+      "credits": 1
+    },
+    "leila.farah@mirageit.example.com": {
+      "fields": {
+        "phone": "+44-121-555-0129"
+      },
+      "credits": 1
+    },
+    "benjamin.franklin@currentsaas.example.com": {
+      "fields": {
+        "phone": "+1-555-0130"
+      },
+      "credits": 1
+    }
+  },
+  "mock_hunter": {
+    "julian kemp@kempmedia.example.com": {
+      "fields": {
+        "email": "julian.kemp@kempmedia.example.com",
+        "employees": 45,
+        "phone": "+44-20-7946-0112"
+      },
+      "credits": 0.5
+    },
+    "archondesign.example.com": {
+      "fields": {
+        "email": "maya.lin@archondesign.example.com",
+        "phone": "+1-604-555-0127"
+      },
+      "credits": 0.5
+    },
+    "amara.diallo@saheltech.example.com": {
+      "fields": {
+        "employees": 60,
+        "phone": "+33-1-555-0131"
+      },
+      "credits": 0.5
+    },
+    "sebastian.vogel@alpinesoft.example.com": {
+      "fields": {
+        "industry": "Software",
+        "phone": "+49-40-555-0132"
+      },
+      "credits": 0.5
+    },
+    "clara.oswald@timestream.example.com": {
+      "fields": {
+        "phone": "+44-141-555-0133"
+      },
+      "credits": 0.5
+    },
+    "tobias.frey@solarpulse.example.com": {
+      "fields": {
+        "phone": "+49-69-555-0134"
+      },
+      "credits": 0.5
+    },
+    "isabella rossi@veronasystems.example.com": {
+      "fields": {
+        "email": "isabella.rossi@veronasystems.example.com",
+        "employees": 115,
+        "phone": "+61-3-5550-0135"
+      },
+      "credits": 0.5
+    }
+  },
+  "mock_dropcontact": {
+    "hugo.weaving@matrixnet.example.com": {
+      "fields": {
+        "phone": "+61-3-5550-0136"
+      },
+      "credits": 0.25
+    },
+    "eva.green@emeraldsaas.example.com": {
+      "fields": {
+        "employees": 85,
+        "phone": "+33-4-555-0137"
+      },
+      "credits": 0.25
+    },
+    "kasper.lind@balticdata.example.com": {
+      "fields": {
+        "industry": "Software",
+        "phone": "+31-30-555-0138"
+      },
+      "credits": 0.25
+    },
+    "tara.macleod@highlandtech.example.com": {
+      "fields": {
+        "phone": "+44-131-555-0139"
+      },
+      "credits": 0.25
+    }
+  }
+}

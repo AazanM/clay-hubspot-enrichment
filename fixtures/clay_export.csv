@@ -1,0 +1,45 @@
+Row ID,First Name,Last Name,Email,Job Title,Company Name,Company Domain,LinkedIn URL,Country,Employee Count,Industry,Phone
+1,Sarah,Chen,sarah.chen@zenithdata.example.com,VP Sales,Zenith Data,zenithdata.example.com,https://linkedin.com/in/sarahchen-zenith,United States,150,Software,+1-555-0101
+2,Marcus,Vance,marcus.vance@nexusflow.example.com,Founder,Nexus Flow,nexusflow.example.com,https://linkedin.com/in/marcusvance-nexus,United Kingdom,45,SaaS,+44-20-7946-0102
+3,Olivia,Taylor,olivia.taylor@strataops.example.com,Director of RevOps,Strata Ops,strataops.example.com,https://linkedin.com/in/oliviataylor-strata,Canada,80,IT Services,+1-416-555-0103
+4,Ethan,Cole,ethan.cole@prismtech.example.com,Head of Growth,Prism Tech,prismtech.example.com,https://linkedin.com/in/ethancole-prism,Germany,,,
+5,David,Brooks,,CTO,Quantex Systems,quantex.example.com,https://linkedin.com/in/davidbrooks-quantex,United States,220,,
+6,Hannah,Abbott,hannah.abbott@beaconscale.example.com,Marketing Manager,Beacon Scale,beaconscale.example.com,,Australia,60,Marketing Services,+61-2-5550-0106
+7,Alex,Morgan,alex.morgan@gmail.com,Founder,Morgan Advisory,morganadvisory.example.com,https://linkedin.com/in/alexmorgan-adv,United States,12,Marketing Services,+1-555-0107
+8,Support,Desk,info@novasolutions.example.com,Operations,Nova Solutions,novasolutions.example.com,,United Kingdom,95,IT Services,+44-20-7946-0108
+9,Lucas,Gray,marcus.invalid@@techpulse.example.com,SDR,Tech Pulse,techpulse.example.com,,Germany,30,Software,
+10,Elena,Rostova,elena.rostova@cloudscale.example.com,VP Sales,CloudScale Networks,cloudscale.example.com,https://linkedin.com/in/elenarostova-cloud,Netherlands,180,Software,+31-20-555-0110
+11,Elena,Rostova,elena.rostova@cloudscale.example.com,,CloudScale Networks,cloudscale.example.com,,,,,
+12,Julian,Kemp,,Head of Growth,Kemp Media,kempmedia.example.com,https://linkedin.com/in/juliankemp-km,United Kingdom,,Marketing Services,
+13,Nora,Fischer,nora.fischer@vertexlabs.example.com,CTO,Vertex Labs,vertexlabs.example.com,https://linkedin.com/in/norafischer-vertex,Germany,75,,+49-30-555-0113
+14,Liam,Wright,liam.wright@solarislogic.example.com,Director of RevOps,Solaris Logic,solarislogic.example.com,https://linkedin.com/in/liamwright-solaris,United States,310,SaaS,+1-555-0114
+15,Sophia,Martinez,sophia.martinez@auroraai.example.com,VP Sales,Aurora AI,auroraai.example.com,https://linkedin.com/in/sophiamartinez-aurora,Canada,140,Software,+1-604-555-0115
+16,Daniel,Kim,daniel.kim@vanguardanalytics.example.com,Founder,Vanguard Analytics,vanguardanalytics.example.com,https://linkedin.com/in/danielkim-vanguard,United States,65,Software,+1-555-0116
+17,Emma,Walsh,emma.walsh@hyperionlogic.example.com,Head of Growth,Hyperion Logic,hyperionlogic.example.com,,United Kingdom,120,SaaS,
+18,Mateo,Silva,mateo.silva@cortexsys.example.com,Director of Engineering,Cortex Systems,cortexsys.example.com,https://linkedin.com/in/mateosilva-cortex,United States,250,Software,+1-555-0118
+19,Chloe,Bennett,chloe.bennett@synthetix.example.com,VP Sales,Synthetix Cloud,synthetix.example.com,https://linkedin.com/in/chloebennett-synth,Australia,,SaaS,
+20,Noah,Patel,,Founder,OmniFlow Systems,omniflow.example.com,https://linkedin.com/in/noahpatel-omni,Canada,40,Software,
+21,Aria,Montgomery,aria.montgomery@aetheris.example.com,Director of RevOps,Aetheris Security,aetheris.example.com,https://linkedin.com/in/ariamontgomery-aeth,United States,85,IT Services,+1-555-0121
+22,Felix,Bauer,felix.bauer@kryptonware.example.com,CTO,KryptonWare GmbH,kryptonware.example.com,https://linkedin.com/in/felixbauer-krypton,Germany,190,Software,+49-89-555-0122
+23,Grace,Hopper,grace.hopper@cobolabs.example.com,Head of Growth,Cobo Labs,cobolabs.example.com,https://linkedin.com/in/gracehopper-cobo,United States,,SaaS,+1-555-0123
+24,Lars,Jansen,lars.jansen@nordicflow.example.com,VP Sales,Nordic Flow,nordicflow.example.com,https://linkedin.com/in/larsjansen-nordic,Netherlands,110,,+31-10-555-0124
+25,Zoe,Kravitz,zoe.kravitz@luminaops.example.com,Marketing Manager,Lumina Ops,luminaops.example.com,https://linkedin.com/in/zoekravitz-lumina,United States,55,Marketing Services,+1-555-0125
+26,Arthur,Pendelton,arthur.pendelton@camelotai.example.com,Founder,Camelot AI,camelotai.example.com,https://linkedin.com/in/arthurpendelton-cam,United Kingdom,35,Software,+44-161-555-0126
+27,Maya,Lin,,Director of RevOps,Archon Design,archondesign.example.com,https://linkedin.com/in/mayalin-archon,Canada,70,Marketing Services,
+28,Sean,O'Connor,sean.oconnor@shamrockcloud.example.com,CTO,Shamrock Cloud,shamrockcloud.example.com,https://linkedin.com/in/seanoconnor-sham,United States,320,IT Services,+1-555-0128
+29,Leila,Farah,leila.farah@mirageit.example.com,VP Sales,Mirage IT Solutions,mirageit.example.com,https://linkedin.com/in/leilafarah-mirage,United Kingdom,160,IT Services,+44-121-555-0129
+30,Benjamin,Franklin,benjamin.franklin@currentsaas.example.com,Head of Growth,Current SaaS,currentsaas.example.com,https://linkedin.com/in/benfranklin-curr,United States,90,SaaS,+1-555-0130
+31,Amara,Diallo,amara.diallo@saheltech.example.com,Founder,Sahel Tech,saheltech.example.com,https://linkedin.com/in/amaradiallo-sahel,France,,Software,+33-1-555-0131
+32,Sebastian,Vogel,sebastian.vogel@alpinesoft.example.com,Director of RevOps,Alpine Soft,alpinesoft.example.com,https://linkedin.com/in/sebastianvogel-alp,Germany,140,,+49-40-555-0132
+33,Clara,Oswald,clara.oswald@timestream.example.com,Marketing Manager,Timestream Media,timestream.example.com,https://linkedin.com/in/claraoswald-time,United Kingdom,40,Marketing Services,+44-141-555-0133
+34,Tobias,Frey,tobias.frey@solarpulse.example.com,CTO,Solar Pulse,solarpulse.example.com,https://linkedin.com/in/tobiasfrey-solar,Germany,210,Software,+49-69-555-0134
+35,Isabella,Rossi,,VP Sales,Verona Systems,veronasystems.example.com,https://linkedin.com/in/isabellarossi-verona,Australia,,SaaS,
+36,Hugo,Weaving,hugo.weaving@matrixnet.example.com,Head of Growth,Matrix Net,matrixnet.example.com,https://linkedin.com/in/hugoweaving-mat,Australia,175,IT Services,+61-3-5550-0136
+37,Eva,Green,eva.green@emeraldsaas.example.com,Director of RevOps,Emerald SaaS,emeraldsaas.example.com,https://linkedin.com/in/evagreen-emerald,France,,SaaS,+33-4-555-0137
+38,Kasper,Lind,kasper.lind@balticdata.example.com,VP Sales,Baltic Data,balticdata.example.com,https://linkedin.com/in/kasperlind-baltic,Netherlands,60,,+31-30-555-0138
+39,Tara,MacLeod,tara.macleod@highlandtech.example.com,Founder,Highland Tech,highlandtech.example.com,https://linkedin.com/in/taramacleod-high,United Kingdom,25,Software,+44-131-555-0139
+40,Vikram,Singhania,vikram.singh@induscloud.example.com,SDR,Indus Cloud,induscloud.example.com,https://linkedin.com/in/vikramsingh-indus,India,550,IT Services,+91-22-555-0140
+41,Sven,Eriksson,sven.eriksson@nordicmedia.example.com,Marketing Specialist,Nordic Media Group,nordicmedia.example.com,https://linkedin.com/in/sveneriksson-nm,Sweden,15,Media,+46-8-555-0141
+42,Yuki,Tanaka,yuki.tanaka@tokyodata.example.com,Product Designer,Tokyo Data Works,tokyodata.example.com,https://linkedin.com/in/yukitanaka-tokyo,Japan,8,Design Services,+81-3-555-0142
+43,Carlos,Santana,carlos.santana@solarsound.example.com,Account Executive,Solar Sound,solarsound.example.com,https://linkedin.com/in/carlossantana-sound,Mexico,12,Entertainment,+52-55-555-0143
+44,Fiona,Gallagher,fiona.gallagher@windycityops.example.com,Coordinator,Windy City Ops,windycityops.example.com,https://linkedin.com/in/fionagallagher-wc,United States,18,Logistics,+1-555-0144
